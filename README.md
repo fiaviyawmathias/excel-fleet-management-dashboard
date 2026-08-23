@@ -1,9 +1,20 @@
 # Excel Fleet Management Dashboard
+## Dashboard Preview
 
+### Fleet Management Dashboard
+
+![Fleet Management Dashboard](screenshots/dashboard.png)
+
+### Vehicle Register
+
+![Vehicle Register](screenshots/vehicle-register.png)
+
+## Project File
+
+The Excel workbook used to create this project is available in this repository:
+
+**Fleet_Management_Dashboard.xlsx**
 ## Project Overview
-![Fleet Management Dashboard](dashboard.png)
-
-![Vehicle Register](vehicle-register.png)
 
 This project is a practical Microsoft Excel fleet management dashboard designed to organize vehicle information, monitor vehicle status, track service requirements, and provide a clear overview of fleet operations.
 
