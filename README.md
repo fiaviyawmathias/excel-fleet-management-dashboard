@@ -3,11 +3,11 @@
 
 ### Fleet Management Dashboard
 
-![Fleet Management Dashboard](screenshots/dashboard.png)
+![Fleet Management Dashboard](./screenshots/dashboard.png)
 
 ### Vehicle Register
 
-![Vehicle Register](screenshots/vehicle-register.png)
+![Vehicle Register](./screenshots/vehicle-register.png)
 
 ## Project File
 
